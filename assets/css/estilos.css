@@ -55,3 +55,8 @@ body {
     font-size: 20px;
     font-family: "Raleway", sans-serif;
   }
+  .boton-git svg{
+    width: 50px;
+    height: 50px;
+    color: rgb(247, 239, 239);
+  }
